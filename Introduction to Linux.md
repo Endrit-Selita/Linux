@@ -1,4 +1,4 @@
-Introduction to Linux
+# Introduction to Linux
 
 Linux is an open-source operating system created by Linus Torvalds.
 
