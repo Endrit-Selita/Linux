@@ -148,5 +148,5 @@ A directory is the same as a folder. A file is content stored within a folder. T
 - `sudo !!`  
   Repeats the previous command with superuser privileges.
 
-  When you are the root user (sudo su), if you enter command: `rm -rf /` this will remove everything
+When you are the root user (sudo su), if you enter command: `rm -rf /` this will remove everything
   - All sudo commands are logged in `/var/log/auth.log`
