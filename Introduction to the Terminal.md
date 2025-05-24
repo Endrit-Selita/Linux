@@ -13,7 +13,7 @@ When you type a command, the **shell** interprets it and returns the output. We'
 
 ## Key Things to Know
 
-- Linux commands are **text-based instructions** for the system  
+- Linux commands are ** textual instructions** entered directly into the terminal  
 - They are **case-sensitive** (`ls` is not the same as `LS`)  
 - Many commands support **options** (also called flags) and **arguments**  
 - Most commands have a **manual page**, accessible via `man <command>`
