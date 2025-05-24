@@ -103,6 +103,7 @@ What This Command Does:
 OhMyZSH is a popular framework for managing your ZSH configuration with a wide range of plugins, themes, and features that enhances your ZSH experience.
 
 Run the command `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
+- a popular theme is powerlevel10k
 - please see tutorials online on different custtomisations you can add once you run this command
 
 ## Binaries 
