@@ -12,7 +12,8 @@ When you type a command, is interpreted by the **shell** and gives back the outp
 # Introduction to the Shell
 
 Linux commands are instructions we type into the terminal to communicate with the operating system through the **shell**.  
-The shell acts as a translator or middleman that takes our commands and makes the computer execute them.
+The shell is a user interface that connects users with the OS.
+- The shell acts as a translator or middleman that takes our commands and makes the computer execute them.
 
 ![image](https://github.com/user-attachments/assets/af5dddd6-946b-41c9-93ba-77e0231adea7)
 
