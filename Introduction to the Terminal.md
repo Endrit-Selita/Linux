@@ -32,4 +32,4 @@ A typical command has three parts:
 ```bash
 ls -l /home/user
 
-This means: list (ls) files in long format (-l) in the /home/user directory.
+# This means: list (ls) files in long format (-l) in the /home/user directory.
