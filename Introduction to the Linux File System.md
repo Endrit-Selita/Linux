@@ -89,10 +89,10 @@ A directory is the same as a folder. A file is content stored within a folder. T
   Moves files or directories, or renames them.
 
 - `cp "source" "destination"`  
-  Copies files from the current directory to another location.
+  Copies files **(not directories)** from the current directory to another location.
 
 - `cp -r "source" "destination"`  
-  Copies a whole folder and everything inside it to another place.
+  Copies a whole folder **(directories)** and everything inside it to another place.
 
 ## Combining and Appending Files
 
