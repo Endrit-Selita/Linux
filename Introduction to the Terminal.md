@@ -7,7 +7,7 @@ The **terminal** is a command-line interface (CLI) that allows you to interact w
 - Install and configure software  
 - Perform various administrative tasks  
 
-When you type a command, the **shell** interprets it and returns the output. We'll cover the shell in more detail later, but for now, just know that it's what processes your commands.
+When you type a command, is interpreted by the **shell** and gives back the output. We will cover the shell in more detail later, but for now, just know that it's what processes your commands.
 
 ---
 
