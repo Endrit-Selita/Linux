@@ -129,15 +129,3 @@ A directory is the same as a folder. A file is content stored within a folder. T
 
 - `sudo !!`  
   Repeats the previous command with superuser privileges.
-
-## Useful Keyboard Shortcuts
-
-- `Ctrl + L`  
-  Clears the terminal screen.
-
-- `Ctrl + C`  
-  Exits out of a running command.
-
-- `!!`  
-  Repeats the previous command.
-
