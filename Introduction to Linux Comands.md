@@ -23,4 +23,4 @@ A typical command has three parts:
 ls -a.
 ```
 
-# This means: list (ls) all files – including hidden ones (-a) – in the current directory (.).
+- This means: list (ls) all files – including hidden ones (-a) – in the current directory (.).
