@@ -31,3 +31,5 @@ A typical command has three parts:
 **Example:**
 ```bash
 ls -l /home/user
+
+This means: list (ls) files in long format (-l) in the /home/user directory.
