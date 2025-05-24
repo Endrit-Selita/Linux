@@ -59,7 +59,7 @@ When you open Vim, it starts in **Command Mode** (also called Normal Mode)
 
 ---
 
-## Additional Tips for New Vim Users
+## Tips for New Vim Users
 
 - **Switching Modes:**  
   Always press `Esc` if you are unsure which mode you are in; this will reliably return you to Command Mode.
