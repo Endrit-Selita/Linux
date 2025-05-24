@@ -18,7 +18,7 @@ This structure provides a flexible and powerful way to manage your system. Under
 # File & Directory Management: Essential Linux Commands
 
 **Note:**  
-A directory is the same as a folder. A file is content stored within a folder. These commands are fundamental for managing files and directories in Linux environments[1].
+A directory is the same as a folder. A file is content stored within a folder. These commands are fundamental for managing files and directories in Linux environments.
 
 
 ## Navigation and Directory Management
