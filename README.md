@@ -11,7 +11,7 @@ These notes are structured to provide both context and real-world usage examples
 
 - [Understanding Linux Commands](https://github.com/Endrit-Selita/Linux/blob/main/Introduction%20to%20Linux%20Comands.md) - Command structure and overview
 
-- File & Directory Management – ls, cd, mkdir, rm, etc.
+- [File & Directory Management](https://github.com/Endrit-Selita/Linux/blob/main/Introduction%20to%20the%20Linux%20File%20System.md) – ls, cd, mkdir, rm, etc.
 
 - Text Editing – VIM basics and key commands
 
