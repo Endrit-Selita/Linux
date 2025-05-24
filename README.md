@@ -7,7 +7,7 @@ These notes are structured to provide both context and real-world usage examples
 
 - [Intro to Linux](https://github.com/Endrit-Selita/Linux/blob/main/Modules/Introduction%20to%20Linux.md) – OS overview, distributions, core benefits
 
-- [Terminal & Shell](https://github.com/Endrit-Selita/Linux/blob/main/Introduction%20to%20the%20Terminal%20%26%20Shell.md) – Programs, paths, binaries, Bash/Zsh
+- [Terminal & Shell](https://github.com/Endrit-Selita/Linux/blob/main/Modules/Introduction%20to%20the%20Terminal%20%26%20Shell.md) – Programs, paths, binaries, Bash/Zsh
 
 - [Understanding Linux Commands](https://github.com/Endrit-Selita/Linux/blob/main/Modules/Introduction%20to%20Linux%20Commands.md) - Command structure and overview
 
