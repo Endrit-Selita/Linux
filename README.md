@@ -7,7 +7,9 @@ These notes are structured to provide both context and real-world usage examples
 
 - [Intro to Linux](https://github.com/Endrit-Selita/Linux/blob/main/Introduction%20to%20Linux.md) – OS overview, distributions, core benefits
 
-- Terminal & Shell – Bash/Zsh, command structure, shortcuts
+- [Terminal & Shell](https://github.com/Endrit-Selita/Linux/blob/main/Introduction%20to%20the%20Terminal%20%26%20Shell.md) – Bash/Zsh
+
+- [Linux Commands](https://github.com/Endrit-Selita/Linux/blob/main/Introduction%20to%20Linux%20Comands.md) - Command structure and overview
 
 - File & Directory Management – ls, cd, mkdir, rm, etc.
 
