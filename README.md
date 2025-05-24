@@ -13,7 +13,7 @@ These notes are structured to provide both context and real-world usage examples
 
 - [File & Directory Management](https://github.com/Endrit-Selita/Linux/blob/main/Introduction%20to%20the%20Linux%20File%20System.md) – ls, cd, mkdir, rm, etc.
 
-- Text Editing – VIM basics and key commands
+- [Text Editing](https://github.com/Endrit-Selita/Linux/blob/main/Modules/Text%20Editing.md) – VIM basics and key commands
 
 - Users & Groups – Adding/removing users, permissions, groups
 
