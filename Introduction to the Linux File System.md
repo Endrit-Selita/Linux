@@ -106,7 +106,7 @@ A directory is the same as a folder. A file is content stored within a folder. T
 ## Editing and Appending Content
 
 - `echo "x" > "filename"`  
-  Adds content to a file (overwrites existing content).
+  Adds content to a file (overwrites existing content) and will create the file if it does not already exist.
 
 - `echo "y" >> "filename"`  
   Adds content to a file (does not remove existing content).
