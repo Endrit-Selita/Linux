@@ -1,4 +1,4 @@
-## Linux commands
+# Linux commands
 
 - Linux commands are **textual instructions** entered directly into the terminal, that tell the operating system what to do
 - They are **case-sensitive** (`ls` is not the same as `LS`)  
