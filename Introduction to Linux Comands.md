@@ -24,3 +24,20 @@ ls -a.
 ```
 
 - This means: list (ls) all files – including hidden ones (-a) – in the current directory (.).
+
+&nbsp;
+
+# Useful Keyboard Shortcuts
+
+- `Ctrl + L`  
+  Clears the terminal screen.
+
+- `Ctrl + C`  
+  Exits out of a running command.
+
+- `!!`  
+  Repeats the previous command.
+
+- Pressing `Tab`  
+  Autocompletes commands, options, file names, and directories—saving time and reducing typing errors.
+  - If there are multiple matches, pressing `Tab` again will show a list of possible completions.
