@@ -14,8 +14,14 @@ When you type a command, is interpreted by the **shell** and gives back the outp
 Linux commands are instructions we type into the terminal to communicate with the operating system through the **shell**.  
 The shell acts as a translator or middleman that takes our commands and makes the computer execute them.
 
+![image](https://github.com/user-attachments/assets/af5dddd6-946b-41c9-93ba-77e0231adea7)
+
+
 There are many types of shells, but the most common is **BASH** (Bourne-Again SHell).  
 Each shell has different features but serves the same purpose.
+
+![image](https://github.com/user-attachments/assets/19218ecf-4bbb-4eaa-932b-12a784d1b15a)
+
 
 The shell is essential for scripting and running commands.
 
