@@ -26,10 +26,13 @@ A typical command has three parts:
 
 1. **The command itself** – e.g. `ls`  
 2. **Options** – e.g. `-l` for long listing  
-3. **Arguments** – e.g. a file or directory name  
+3. **Arguments** – e.g. a file or directory name
+
+![image](https://github.com/user-attachments/assets/70ac6a5f-7b15-4e16-9e1d-b0e917bd9d1d)
+
 
 **Example:**
 ```bash
-ls -l /home/user
+ls -a.
 
-# This means: list (ls) files in long format (-l) in the /home/user directory.
+# This means: list (ls) all files – including hidden ones (-a) – in the current directory (.).
