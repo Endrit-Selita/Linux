@@ -5,7 +5,7 @@ This repository contains a curated collection of Linux concepts, commands, and h
 🧠 Topics Covered
 These notes are structured to provide both context and real-world usage examples for key Linux topics, including:
 
-- Intro to Linux – OS overview, distributions, core benefits
+- [Intro to Linux](https://github.com/Endrit-Selita/Linux/blob/main/Introduction%20to%20Linux.md) – OS overview, distributions, core benefits
 
 - Terminal & Shell – Bash/Zsh, command structure, shortcuts
 
