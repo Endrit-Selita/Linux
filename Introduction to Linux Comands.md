@@ -21,5 +21,6 @@ A typical command has three parts:
 **Example:**
 ```bash
 ls -a.
+```
 
 # This means: list (ls) all files – including hidden ones (-a) – in the current directory (.).
