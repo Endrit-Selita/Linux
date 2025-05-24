@@ -9,7 +9,7 @@ These notes are structured to provide both context and real-world usage examples
 
 - [Terminal & Shell](https://github.com/Endrit-Selita/Linux/blob/main/Introduction%20to%20the%20Terminal%20%26%20Shell.md) – Programs, paths, binaries, Bash/Zsh
 
-- [Understanding Linux Commands](https://github.com/Endrit-Selita/Linux/blob/main/Introduction%20to%20Linux%20Comands.md) - Command structure and overview
+- [Understanding Linux Commands](https://github.com/Endrit-Selita/Linux/blob/main/Introduction%20to%20Linux%20Commands.md) - Command structure and overview
 
 - [File & Directory Management](https://github.com/Endrit-Selita/Linux/blob/main/Introduction%20to%20the%20Linux%20File%20System.md) – ls, cd, mkdir, rm, etc.
 
