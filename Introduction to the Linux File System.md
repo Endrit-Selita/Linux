@@ -58,6 +58,11 @@ A directory is the same as a folder. A file is content stored within a folder. T
 - `rm -r "directory"`  
   Removes a directory and all its contents (use with caution).
 
+- To make a folder name with spaces:  
+  - `mkdir "my project"` (use speech marks) **or**
+  - `mkdir my\ project\ 2` (use a backslash before each space)  
+   - When searching or navigating to these folders, use the same format, e.g., `cd "my project"` or `cd my\ project\ 2`.
+
 ## File Creation, Viewing, and Deletion
 
 - `touch "filename"`  
@@ -88,6 +93,19 @@ A directory is the same as a folder. A file is content stored within a folder. T
 
 - `cp -r "source" "destination"`  
   Copies a whole folder and everything inside it to another place.
+
+## Combining and Appending Files
+
+- To combine files:  
+  - `cat X.txt Y.txt > combined.txt`  
+    Combines the contents of `X.txt` and `Y.txt` into a new file called `combined.txt`.
+  - `cat combined.txt` displays the combined content.  
+    Whatever you put in file X and Y using `echo` will appear when you run `cat combined.txt`.
+
+- To add the content of one file to another:  
+  - `cat X.txt >> Y.txt`  
+    Adds the content of `X.txt` to the end of `Y.txt`.
+  - `cat Y.txt` shows the updated content of `Y.txt`.
 
 ## Searching and Information
 
