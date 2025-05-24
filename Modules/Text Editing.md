@@ -57,7 +57,7 @@ When you open Vim, it starts in **Command Mode** (also called Normal Mode)
 - `:set number` — Show line numbers alongside your text.
 - `:set nonumber` — Hide line numbers.
 
-
+&nbsp;
 
 ## Tips for New Vim Users
 
