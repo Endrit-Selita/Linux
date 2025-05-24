@@ -87,7 +87,7 @@ A directory is the same as a folder. A file is content stored within a folder. T
   Copies files from the current directory to another location.
 
 - `cp -r "source" "destination"`  
-  Recursively copies directories and their contents.
+  Copies a whole folder and everything inside it to another place.
 
 ## Searching and Information
 
