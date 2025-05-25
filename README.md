@@ -17,7 +17,7 @@ These notes are structured to provide both context and real-world usage examples
 
 - [Users & Groups](https://github.com/Endrit-Selita/Linux/blob/main/Modules/Users%20%26%20Groups.md) – Adding, removing, and managing users and groups
 
-- File Permissions – chmod, chown, symbolic & numeric modes
+- [File Permissions](https://github.com/Endrit-Selita/Linux/blob/main/Modules/File%20Permissions.md) – chmod, chown, symbolic & numeric modes
 
 - Data Redirection – Pipes, output/input redirection
 
