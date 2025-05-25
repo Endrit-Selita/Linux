@@ -15,7 +15,7 @@ These notes are structured to provide both context and real-world usage examples
 
 - [Text Editing](https://github.com/Endrit-Selita/Linux/blob/main/Modules/Text%20Editing.md) – VIM basics and key commands
 
-- Users & Groups – Adding/removing users, permissions, groups
+- [Users & Groups](https://github.com/Endrit-Selita/Linux/blob/main/Modules/Users%20%26%20Groups.md) – Adding/removing users, permissions, groups
 
 - File Permissions – chmod, chown, symbolic & numeric modes
 
