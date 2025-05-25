@@ -1,6 +1,6 @@
 
 
-# File Permissions in Linux: Simple Notes
+# File Permissions
 
 ## What Are File Permissions?
 
