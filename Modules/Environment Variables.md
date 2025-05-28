@@ -1,13 +1,3 @@
-# Environment Variables
-
-
-
-
-
-
-
-
-
 # Environment Variables – Using and Modifying Shell Variables
 
 ## What Are Environment Variables?
