@@ -83,9 +83,7 @@ or
 Example script (`greet.sh`):
 
 `#!/bin/bash
-
 echo "Hello, $USER! 
-
 Welcome to $HOSTNAME."`
 
 - Make the script executable:  
