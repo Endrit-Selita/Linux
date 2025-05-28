@@ -19,7 +19,7 @@ These notes are structured to provide both context and real-world usage examples
 
 - [File Permissions](https://github.com/Endrit-Selita/Linux/blob/main/Modules/File%20Permissions.md) – chmod, chown, symbolic & numeric modes
 
-- Data Redirection – Pipes, output/input redirection
+- [Data Redirection](https://github.com/Endrit-Selita/Linux/blob/main/Modules/Data%20Redirection.md) – Pipes, output/input redirection
 
 - Environment Variables – Using and modifying shell variables
 
