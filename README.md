@@ -21,7 +21,7 @@ These notes are structured to provide both context and real-world usage examples
 
 - [Data Redirection](https://github.com/Endrit-Selita/Linux/blob/main/Modules/Data%20Redirection.md) – Pipes, output/input redirection
 
-- Environment Variables – Using and modifying shell variables
+- [Environment Variables](https://github.com/Endrit-Selita/Linux/new/main/Modules) – Using and modifying shell variables
 
 - Hands-on Labs – Bandit, SadServers (practice and troubleshooting)
 
