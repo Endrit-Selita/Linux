@@ -82,11 +82,14 @@ or
 - You can use environment variables in scripts to make them flexible and dynamic.  
 Example script (`greet.sh`):
 
-```#!/bin/bash
+```
+#!/bin/bash
 
 echo "Hello, $USER! 
 
-Welcome to $HOSTNAME."```
+Welcome to $HOSTNAME."
+
+```
 
 - Make the script executable:  
 `sudo chmod +x greet.sh`
